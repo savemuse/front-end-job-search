@@ -1,6 +1,6 @@
 # React + Redux + Saga + Jest sample
 
-#＃ About
+## About
 This sample is to create an online job search, the architecture is based on 'create react app'
 * [creat react app](https://github.com/facebookincubator/create-react-app)
 * [React](https://github.com/facebook/react)
