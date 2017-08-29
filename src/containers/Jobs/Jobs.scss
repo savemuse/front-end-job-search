@@ -1,0 +1,29 @@
+.input-container {
+  width: 70%;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.card-container {
+  width: 80%;
+  margin: 40px auto;
+  display: flex;
+  flex-direction: column;
+
+  &-item {
+    width: 100%;
+    margin: 30px 0;
+  }
+}
+
+.text-align-center {
+  text-align: center;
+  color: #BDBDBD;
+  margin: 10px 0;
+}
+
+.empty-container {
+  height: 300px;
+}

@@ -1,0 +1,1882 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<JobItem /> when it has complete data should be same as snapshot 1`] = `
+<JobItem
+  job={
+    Object {
+      "assignee": null,
+      "assignees": Array [],
+      "body": "[公司名稱] 廈門鈴盛軟件有限公司(RingCentral)
+    [工作職稱] Web前端開發工程師
+    [工作地點] 廈門軟件園區
+    [薪資範圍] 新台币100-200萬 
+    
+    [工作內容]：
+    - 應用創新的技術, 方法和理念開發國際一流品質的Web應用。
+    - 大學及以上學歷, 良好的英語書面及口語；
+    - 精通前端技術, 包含但不限於: Javascript, CSS/CSS3/SASS, Mootools, AngularJS, HTML/HTML5；
+    - 具備一定的設計能力以及良好的代碼風格(代碼簡潔, 容易理解維護, 自解釋)；
+    - 富有激情,認真負責,熱愛前端技術,具備良好的溝通能力和團隊協作能力；
+    - 瞭解WEB/HTTP(s)/SESSION工作原理, 熟悉WEB安全如XSS優先考慮；
+    - 熟練掌握前端單元測試技術,熟悉敏捷開發流程,有Scrum經驗優先考慮；
+    - 熟悉設計模式, 有Java開發經驗優先考慮。
+    
+    [公司福利]
+    - 年度14薪+；
+    - 五險一金；
+    - 班車/的士費/交通補貼；
+    - 健身激勵（公司補貼提供健身房，籃球，羽毛球，游泳館等健身場所）；
+    - 遠遠超出法定的年假（根據工齡基數10-15天，每年加1天，無上限）；
+    - 補充商業保險；
+    - 豐富的水果/零食供應；
+    - 員工關懷（生日/結婚/生育/入職週年等慶賀及禮品）；
+    - 培訓及提升計劃；
+    - 綜合健康年檢；
+    - 餐補貼/加班晚餐；
+    - 常規的團隊建設活動經費；
+    - 豐富的節日活動。
+    
+    [公司簡介]
+    RingCentral（鈴盛）是基於雲計算的商務電話系統的全球供應商，公司總部在美國加利福尼亞州的硅谷。當前,有超過300,000家公司客戶並且正在快速發展。鈴盛在同行中處於技術領先的地位，並且在2010年世界經濟論壇中榮獲「科技先鋒獎」。是美國最具潛力、發展最快的高科技公司之一。我們需要軟件精英加入我們，一起研發改變商業通訊模式的新一代產品。
+    欲知更多關於本公司的信息，請點擊：www.ringcentral.com
+    
+    [公司亮點]
+    - 領先的技術：VoIP，雲計算，移動應用，2010技術先鋒獎，2013年上市；
+    - 快速發展的公司：在美國雲計算行業增長最快的公司之一；
+    - 硅谷企業文化：尊重，創新，關愛，共同發展；
+    - 全英文工作環境：讀寫必需，鼓勵英語溝通；
+    - 常規內訓：英語、技術、管理、溝通技巧；
+    - 注重發展：技術方向和管理方向並重。
+    
+    [聯絡方式]
+    
+    請將履歷與個人作品連結(若有)寄至下列email： 
+    Dana.Shi@ringcentral.com 
+    
+    Dana 施 
+    鈴盛軟件 管理部
+    │ 廈門市軟件園二期望海路16號A201
+    │ Mob：15905997210
+    │ Tel：0592-5379191
+    │ Skype：471491750@qq.com
+    │ Email：Dana.Shi@ringcentral.com
+    ",
+      "closed_at": null,
+      "comments": 0,
+      "comments_url": "https://api.github.com/repos/f2etw/jobs/issues/49/comments",
+      "created_at": "2015-08-12T01:30:53Z",
+      "events_url": "https://api.github.com/repos/f2etw/jobs/issues/49/events",
+      "html_url": "https://github.com/f2etw/jobs/issues/49",
+      "id": 100446996,
+      "labels": Array [
+        Object {
+          "color": "f7c6c7",
+          "default": false,
+          "id": 246844499,
+          "name": "Scrum",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/Scrum",
+        },
+        Object {
+          "color": "207de5",
+          "default": false,
+          "id": 246844528,
+          "name": "unit test",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/unit%20test",
+        },
+        Object {
+          "color": "fad8c7",
+          "default": false,
+          "id": 177983735,
+          "name": "[B] JAVA",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/[B]%20JAVA",
+        },
+        Object {
+          "color": "C7DEF8",
+          "default": false,
+          "id": 180245062,
+          "name": "[F] AngularJS",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/[F]%20AngularJS",
+        },
+        Object {
+          "color": "fbca04",
+          "default": false,
+          "id": 173167732,
+          "name": "年薪百萬",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/%E5%B9%B4%E8%96%AA%E7%99%BE%E8%90%AC",
+        },
+        Object {
+          "color": "006b75",
+          "default": false,
+          "id": 162015175,
+          "name": "求才",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/%E6%B1%82%E6%89%8D",
+        },
+        Object {
+          "color": "bfdadc",
+          "default": false,
+          "id": 247335771,
+          "name": "海外",
+          "url": "https://api.github.com/repos/f2etw/jobs/labels/%E6%B5%B7%E5%A4%96",
+        },
+      ],
+      "labels_url": "https://api.github.com/repos/f2etw/jobs/issues/49/labels{/name}",
+      "locked": false,
+      "milestone": null,
+      "number": 49,
+      "repository_url": "https://api.github.com/repos/f2etw/jobs",
+      "state": "open",
+      "title": " [徵才]硅谷铃盛 前端开发工程师 Front End Engineer 年薪100-200W",
+      "updated_at": "2015-08-13T08:39:36Z",
+      "url": "https://api.github.com/repos/f2etw/jobs/issues/49",
+      "user": Object {
+        "avatar_url": "https://avatars1.githubusercontent.com/u/13757360?v=4",
+        "events_url": "https://api.github.com/users/dana117/events{/privacy}",
+        "followers_url": "https://api.github.com/users/dana117/followers",
+        "following_url": "https://api.github.com/users/dana117/following{/other_user}",
+        "gists_url": "https://api.github.com/users/dana117/gists{/gist_id}",
+        "gravatar_id": "",
+        "html_url": "https://github.com/dana117",
+        "id": 13757360,
+        "login": "dana117",
+        "organizations_url": "https://api.github.com/users/dana117/orgs",
+        "received_events_url": "https://api.github.com/users/dana117/received_events",
+        "repos_url": "https://api.github.com/users/dana117/repos",
+        "site_admin": false,
+        "starred_url": "https://api.github.com/users/dana117/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/dana117/subscriptions",
+        "type": "User",
+        "url": "https://api.github.com/users/dana117",
+      },
+    }
+  }
+>
+  <div
+    className="card-container-item"
+  >
+    <Card
+      expandable={false}
+      expanded={false}
+      initiallyExpanded={false}
+      onExpandChange={[Function]}
+    >
+      <Paper
+        circle={false}
+        rounded={true}
+        style={
+          Object {
+            "zIndex": 1,
+          }
+        }
+        transitionEnabled={true}
+        zDepth={1}
+      >
+        <div
+          style={
+            Object {
+              "WebkitTapHighlightColor": "rgba(0,0,0,0)",
+              "backgroundColor": "#ffffff",
+              "borderRadius": 2,
+              "boxShadow": "0 1px 6px rgba(0, 0, 0, 0.12),
+                     0 1px 4px rgba(0, 0, 0, 0.12)",
+              "boxSizing": "border-box",
+              "color": "rgba(0, 0, 0, 0.87)",
+              "fontFamily": "Roboto, sans-serif",
+              "muiPrepared": true,
+              "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+              "zIndex": 1,
+            }
+          }
+        >
+          <div
+            style={
+              Object {
+                "paddingBottom": 8,
+              }
+            }
+          >
+            <CardHeader
+              actAsExpander={true}
+              avatar="https://avatars1.githubusercontent.com/u/13757360?v=4"
+              onClick={[Function]}
+              showExpandableButton={true}
+              style={
+                Object {
+                  "cursor": "pointer",
+                }
+              }
+              subtitle="2015-08-13 16:39:36"
+              title=" [徵才]硅谷铃盛 前端开发工程师 Front End Engineer 年薪100-200W"
+            >
+              <div
+                onClick={[Function]}
+                style={
+                  Object {
+                    "boxSizing": "border-box",
+                    "cursor": "pointer",
+                    "fontWeight": 500,
+                    "muiPrepared": true,
+                    "padding": 16,
+                    "position": "relative",
+                    "whiteSpace": "nowrap",
+                  }
+                }
+              >
+                <Avatar
+                  size={40}
+                  src="https://avatars1.githubusercontent.com/u/13757360?v=4"
+                  style={
+                    Object {
+                      "marginRight": 16,
+                    }
+                  }
+                >
+                  <img
+                    size={40}
+                    src="https://avatars1.githubusercontent.com/u/13757360?v=4"
+                    style={
+                      Object {
+                        "alignItems": "center",
+                        "backgroundColor": "rgb(188, 188, 188)",
+                        "borderRadius": "50%",
+                        "color": "#ffffff",
+                        "display": "inline-flex",
+                        "fontSize": 20,
+                        "height": 40,
+                        "justifyContent": "center",
+                        "marginRight": 16,
+                        "muiPrepared": true,
+                        "userSelect": "none",
+                        "width": 40,
+                      }
+                    }
+                  />
+                </Avatar>
+                <div
+                  style={
+                    Object {
+                      "display": "inline-block",
+                      "muiPrepared": true,
+                      "paddingRight": "90px",
+                      "verticalAlign": "top",
+                      "whiteSpace": "normal",
+                    }
+                  }
+                >
+                  <span
+                    style={
+                      Object {
+                        "color": "rgba(0, 0, 0, 0.87)",
+                        "display": "block",
+                        "fontSize": 15,
+                        "muiPrepared": true,
+                      }
+                    }
+                  >
+                     [徵才]硅谷铃盛 前端开发工程师 Front End Engineer 年薪100-200W
+                  </span>
+                  <span
+                    style={
+                      Object {
+                        "color": "rgba(0, 0, 0, 0.54)",
+                        "display": "block",
+                        "fontSize": 14,
+                        "muiPrepared": true,
+                      }
+                    }
+                  >
+                    2015-08-13 16:39:36
+                  </span>
+                </div>
+                <CardExpandable
+                  closeIcon={<HardwareKeyboardArrowDown />}
+                  expanded={false}
+                  onExpanding={[Function]}
+                  openIcon={<HardwareKeyboardArrowUp />}
+                >
+                  <IconButton
+                    disableTouchRipple={false}
+                    disabled={false}
+                    iconStyle={Object {}}
+                    onClick={[Function]}
+                    style={
+                      Object {
+                        "bottom": 0,
+                        "margin": "auto",
+                        "position": "absolute",
+                        "right": 4,
+                        "top": 0,
+                      }
+                    }
+                    tooltipPosition="bottom-center"
+                    touch={false}
+                  >
+                    <EnhancedButton
+                      centerRipple={true}
+                      containerElement="button"
+                      disableTouchRipple={false}
+                      disabled={false}
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyUp={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseOut={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "bottom": 0,
+                          "boxSizing": "border-box",
+                          "fontSize": 0,
+                          "height": 48,
+                          "margin": "auto",
+                          "overflow": "visible",
+                          "padding": 12,
+                          "position": "absolute",
+                          "right": 4,
+                          "top": 0,
+                          "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                          "width": 48,
+                        }
+                      }
+                      tabIndex={0}
+                      type="button"
+                    >
+                      <button
+                        disabled={false}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseOut={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                            "background": "none",
+                            "border": 10,
+                            "bottom": 0,
+                            "boxSizing": "border-box",
+                            "cursor": "pointer",
+                            "display": "inline-block",
+                            "fontFamily": "Roboto, sans-serif",
+                            "fontSize": 0,
+                            "fontWeight": "inherit",
+                            "height": 48,
+                            "margin": "auto",
+                            "muiPrepared": true,
+                            "outline": "none",
+                            "overflow": "visible",
+                            "padding": 12,
+                            "position": "absolute",
+                            "right": 4,
+                            "textDecoration": "none",
+                            "top": 0,
+                            "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                            "verticalAlign": null,
+                            "width": 48,
+                            "zIndex": 1,
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <TouchRipple
+                          abortOnScroll={true}
+                          centerRipple={true}
+                        >
+                          <div
+                            onMouseDown={[Function]}
+                            onMouseLeave={[Function]}
+                            onMouseUp={[Function]}
+                            onTouchEnd={[Function]}
+                            onTouchStart={[Function]}
+                          >
+                            <HardwareKeyboardArrowDown
+                              style={Object {}}
+                            >
+                              <SvgIcon
+                                onMouseEnter={[Function]}
+                                onMouseLeave={[Function]}
+                                style={Object {}}
+                                viewBox="0 0 24 24"
+                              >
+                                <svg
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "rgba(0, 0, 0, 0.87)",
+                                      "display": "inline-block",
+                                      "fill": "currentColor",
+                                      "height": 24,
+                                      "muiPrepared": true,
+                                      "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                      "userSelect": "none",
+                                      "width": 24,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <path
+                                    d="M7.41 7.84L12 12.42l4.59-4.58L18 9.25l-6 6-6-6z"
+                                  />
+                                </svg>
+                              </SvgIcon>
+                            </HardwareKeyboardArrowDown>
+                          </div>
+                        </TouchRipple>
+                      </button>
+                    </EnhancedButton>
+                  </IconButton>
+                </CardExpandable>
+              </div>
+            </CardHeader>
+            <CardText>
+              <div
+                style={
+                  Object {
+                    "color": "rgba(0, 0, 0, 0.87)",
+                    "fontSize": 14,
+                    "muiPrepared": true,
+                    "padding": 16,
+                  }
+                }
+              >
+                <Tags
+                  labels={
+                    Array [
+                      Object {
+                        "color": "f7c6c7",
+                        "default": false,
+                        "id": 246844499,
+                        "name": "Scrum",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/Scrum",
+                      },
+                      Object {
+                        "color": "207de5",
+                        "default": false,
+                        "id": 246844528,
+                        "name": "unit test",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/unit%20test",
+                      },
+                      Object {
+                        "color": "fad8c7",
+                        "default": false,
+                        "id": 177983735,
+                        "name": "[B] JAVA",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/[B]%20JAVA",
+                      },
+                      Object {
+                        "color": "C7DEF8",
+                        "default": false,
+                        "id": 180245062,
+                        "name": "[F] AngularJS",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/[F]%20AngularJS",
+                      },
+                      Object {
+                        "color": "fbca04",
+                        "default": false,
+                        "id": 173167732,
+                        "name": "年薪百萬",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/%E5%B9%B4%E8%96%AA%E7%99%BE%E8%90%AC",
+                      },
+                      Object {
+                        "color": "006b75",
+                        "default": false,
+                        "id": 162015175,
+                        "name": "求才",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/%E6%B1%82%E6%89%8D",
+                      },
+                      Object {
+                        "color": "bfdadc",
+                        "default": false,
+                        "id": 247335771,
+                        "name": "海外",
+                        "url": "https://api.github.com/repos/f2etw/jobs/labels/%E6%B5%B7%E5%A4%96",
+                      },
+                    ]
+                  }
+                >
+                  <div
+                    style={
+                      Object {
+                        "display": "flex",
+                        "flexWrap": "wrap",
+                      }
+                    }
+                  >
+                    <Chip
+                      backgroundColor="#f7c6c7"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#f7c6c7",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#f7c6c7",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            Scrum
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#207de5"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#207de5",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#207de5",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            unit test
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#fad8c7"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#fad8c7",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#fad8c7",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            [B] JAVA
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#C7DEF8"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#C7DEF8",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#C7DEF8",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            [F] AngularJS
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#fbca04"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#fbca04",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#fbca04",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            年薪百萬
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#006b75"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#006b75",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#006b75",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            求才
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                    <Chip
+                      backgroundColor="#bfdadc"
+                      containerElement="div"
+                      onBlur={[Function]}
+                      onClick={[Function]}
+                      onFocus={[Function]}
+                      onKeyDown={[Function]}
+                      onKeyboardFocus={[Function]}
+                      onMouseDown={[Function]}
+                      onMouseEnter={[Function]}
+                      onMouseLeave={[Function]}
+                      onMouseUp={[Function]}
+                      onTouchEnd={[Function]}
+                      onTouchStart={[Function]}
+                      style={
+                        Object {
+                          "margin": 5,
+                        }
+                      }
+                    >
+                      <EnhancedButton
+                        containerElement="div"
+                        disableFocusRipple={true}
+                        disableTouchRipple={true}
+                        onBlur={[Function]}
+                        onClick={[Function]}
+                        onFocus={[Function]}
+                        onKeyDown={[Function]}
+                        onKeyUp={[Function]}
+                        onKeyboardFocus={[Function]}
+                        onMouseDown={[Function]}
+                        onMouseEnter={[Function]}
+                        onMouseLeave={[Function]}
+                        onMouseUp={[Function]}
+                        onTouchEnd={[Function]}
+                        onTouchStart={[Function]}
+                        style={
+                          Object {
+                            "backgroundColor": "#bfdadc",
+                            "borderRadius": 16,
+                            "boxShadow": null,
+                            "cursor": "pointer",
+                            "display": "flex",
+                            "margin": 5,
+                            "whiteSpace": "nowrap",
+                            "width": "fit-content",
+                          }
+                        }
+                        tabIndex={0}
+                        type="button"
+                      >
+                        <div
+                          onBlur={[Function]}
+                          onClick={[Function]}
+                          onFocus={[Function]}
+                          onKeyDown={[Function]}
+                          onKeyUp={[Function]}
+                          onMouseDown={[Function]}
+                          onMouseEnter={[Function]}
+                          onMouseLeave={[Function]}
+                          onMouseUp={[Function]}
+                          onTouchEnd={[Function]}
+                          onTouchStart={[Function]}
+                          style={
+                            Object {
+                              "WebkitTapHighlightColor": "rgba(0, 0, 0, 0)",
+                              "backgroundColor": "#bfdadc",
+                              "border": 10,
+                              "borderRadius": 16,
+                              "boxShadow": null,
+                              "boxSizing": "border-box",
+                              "cursor": "pointer",
+                              "display": "flex",
+                              "fontFamily": "Roboto, sans-serif",
+                              "fontSize": "inherit",
+                              "fontWeight": "inherit",
+                              "margin": 5,
+                              "muiPrepared": true,
+                              "outline": "none",
+                              "padding": 0,
+                              "position": "relative",
+                              "textDecoration": "none",
+                              "verticalAlign": null,
+                              "whiteSpace": "nowrap",
+                              "width": "fit-content",
+                              "zIndex": 1,
+                            }
+                          }
+                          tabIndex={0}
+                        >
+                          <Avatar
+                            color="#444"
+                            icon={<ActionFace />}
+                            size={32}
+                            style={
+                              Object {
+                                "marginRight": -4,
+                              }
+                            }
+                          >
+                            <div
+                              color="#444"
+                              size={32}
+                              style={
+                                Object {
+                                  "alignItems": "center",
+                                  "backgroundColor": "rgb(188, 188, 188)",
+                                  "borderRadius": "50%",
+                                  "color": "#444",
+                                  "display": "inline-flex",
+                                  "fontSize": 16,
+                                  "height": 32,
+                                  "justifyContent": "center",
+                                  "marginRight": -4,
+                                  "muiPrepared": true,
+                                  "userSelect": "none",
+                                  "width": 32,
+                                }
+                              }
+                            >
+                              <ActionFace
+                                color="#444"
+                                style={
+                                  Object {
+                                    "color": "#444",
+                                    "fontSize": 19.2,
+                                    "height": 19.2,
+                                    "margin": 6.4,
+                                    "width": 19.2,
+                                  }
+                                }
+                              >
+                                <SvgIcon
+                                  color="#444"
+                                  onMouseEnter={[Function]}
+                                  onMouseLeave={[Function]}
+                                  style={
+                                    Object {
+                                      "color": "#444",
+                                      "fontSize": 19.2,
+                                      "height": 19.2,
+                                      "margin": 6.4,
+                                      "width": 19.2,
+                                    }
+                                  }
+                                  viewBox="0 0 24 24"
+                                >
+                                  <svg
+                                    onMouseEnter={[Function]}
+                                    onMouseLeave={[Function]}
+                                    style={
+                                      Object {
+                                        "color": "#444",
+                                        "display": "inline-block",
+                                        "fill": "#444",
+                                        "fontSize": 19.2,
+                                        "height": 19.2,
+                                        "margin": 6.4,
+                                        "muiPrepared": true,
+                                        "transition": "all 450ms cubic-bezier(0.23, 1, 0.32, 1) 0ms",
+                                        "userSelect": "none",
+                                        "width": 19.2,
+                                      }
+                                    }
+                                    viewBox="0 0 24 24"
+                                  >
+                                    <path
+                                      d="M9 11.75c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zm6 0c-.69 0-1.25.56-1.25 1.25s.56 1.25 1.25 1.25 1.25-.56 1.25-1.25-.56-1.25-1.25-1.25zM12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8 0-.29.02-.58.05-.86 2.36-1.05 4.23-2.98 5.21-5.37C11.07 8.33 14.05 10 17.42 10c.78 0 1.53-.09 2.25-.26.21.71.33 1.47.33 2.26 0 4.41-3.59 8-8 8z"
+                                    />
+                                  </svg>
+                                </SvgIcon>
+                              </ActionFace>
+                            </div>
+                          </Avatar>
+                          <span
+                            style={
+                              Object {
+                                "color": "rgba(0, 0, 0, 0.87)",
+                                "fontSize": 14,
+                                "fontWeight": 400,
+                                "lineHeight": "32px",
+                                "muiPrepared": true,
+                                "paddingLeft": 12,
+                                "paddingRight": 12,
+                                "userSelect": "none",
+                                "whiteSpace": "nowrap",
+                              }
+                            }
+                          >
+                            海外
+                          </span>
+                        </div>
+                      </EnhancedButton>
+                    </Chip>
+                  </div>
+                </Tags>
+              </div>
+            </CardText>
+          </div>
+        </div>
+      </Paper>
+    </Card>
+  </div>
+</JobItem>
+`;
