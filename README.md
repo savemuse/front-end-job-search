@@ -8,6 +8,7 @@ This sample is to create an online job search, the architecture is based on 'cre
 * [Redux Saga](https://github.com/redux-saga/redux-saga)
 * [Jest](https://github.com/facebook/jest)
 * [Enzyme](https://github.com/airbnb/enzyme)
+* [Material UI](https://github.com/callemall/material-ui)
 
 ## Installation
 ```bash
