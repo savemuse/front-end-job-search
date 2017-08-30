@@ -4,7 +4,7 @@ import { mount } from 'enzyme';
 import toJson from 'enzyme-to-json';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import JobList from '../JobList';
-import mockJobList from './mocks/mock.JobList.json';
+import mockJobList from './mocks/mockJobList.json';
 const muiTheme = getMuiTheme();
 
 describe('<JobList />', function () {
