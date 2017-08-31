@@ -9,6 +9,7 @@ const styles = {
   button: {
     margin: '28px 10px 0 10px',
     boxShadow: 'none',
+    backgroundColor: 'transparent'
   },
 };
 
