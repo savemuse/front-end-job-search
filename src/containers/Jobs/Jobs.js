@@ -7,8 +7,8 @@ import SearchBar from '../../components/SearchBar/SearchBar';
 import './Jobs.scss';
 const styles = {
   button: {
-    height: '36px',
-    margin: '25px 0 0 30px', 
+    margin: '28px 10px 0 10px',
+    boxShadow: 'none',
   },
 };
 

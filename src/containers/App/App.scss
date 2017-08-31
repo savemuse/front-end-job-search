@@ -1,6 +1,3 @@
-// $font-size: 18px;
-// $blue: #3498DB;
-// lighten($blue, 10%);
 .banner {
   width: 100%;
   height: 600px;
@@ -12,7 +9,7 @@
 
   &-logo {
     animation: App-logo-spin infinite 20s linear;
-    height: 80px;
+    height: 45px;
   }
 
   &-header {

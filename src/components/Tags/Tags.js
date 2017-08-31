@@ -25,7 +25,6 @@ class Tags extends Component {
         { labels && labels.map((label) => (
           <Chip
             key={label.id}
-            backgroundColor={`#${label.color}`}
             onClick={handleTouchTap}
             style={styles.chip}
           >

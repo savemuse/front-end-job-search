@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 import { Card, CardHeader, CardText } from 'material-ui/Card';
+import Avatar from 'material-ui/Avatar';
+import ReactMarkdown from 'react-markdown';
 import Tags from '../../components/Tags/Tags';
 
 class JobItem extends Component {
@@ -32,9 +34,9 @@ class JobItem extends Component {
           onExpandChange={this.handleExpandChange}
         >
           <CardHeader
-            title={title}
+            title={title.trim()}
             subtitle={updateStr}
-            avatar={user.avatar_url}
+            avatar={<Avatar src={user.avatar_url} size={60} />}
             actAsExpander={true}
             showExpandableButton={true}
           />
@@ -42,7 +44,7 @@ class JobItem extends Component {
             <Tags labels={labels} />
           </CardText>
           <CardText expandable={true}>
-            {body}
+            <ReactMarkdown source={body} />
           </CardText>
         </Card>
       </div>
