@@ -41,6 +41,7 @@
     "react-error-overlay": "^1.0.10",
     "react-markdown": "^2.5.0",
     "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
     "react-test-renderer": "^15.6.1",
     "redux": "^3.7.2",
     "redux-actions": "^2.2.1",
