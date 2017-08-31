@@ -13,19 +13,19 @@ const styles = {
   },
 };
 
-function handleTouchTap() {
-  alert('You clicked the Chip.');
-}
-
 class Tags extends Component {
   render() {
-    const { labels } = this.props;
+    const {
+      labels,
+      onTagClick
+    } = this.props;
+
     return (
       <div style={styles.wrapper}>
         { labels && labels.map((label) => (
           <Chip
             key={label.id}
-            onClick={handleTouchTap}
+            onClick={ () => onTagClick && onTagClick({filter: label.name}) }
             style={styles.chip}
           >
             <Avatar

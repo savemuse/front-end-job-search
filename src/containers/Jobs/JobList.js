@@ -8,7 +8,11 @@ class JobList extends Component {
   }
 
   render() {
-    const { filter_jobs, loading } = this.props;
+    const {
+      filter_jobs,
+      loading,
+      filterJobsRequest
+    } = this.props;
 
     if (loading) {
       return (
@@ -34,7 +38,9 @@ class JobList extends Component {
         <ul>
           { filter_jobs.map((job) => (
               <li key={job.id}>
-                <JobItem job={job}/>
+                <JobItem
+                  job={job}
+                  onTagClick={filterJobsRequest} />
               </li>
             ))
           }

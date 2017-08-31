@@ -1,6 +1,9 @@
 import { connect } from 'react-redux';
 import JobList from './JobList';
-import { getJobsRequest } from '../../redux/modules/jobs/action';
+import { 
+  getJobsRequest,
+  filterJobsRequest,
+} from '../../redux/modules/jobs/action';
 
 const mapStateToProps = state => {
   const { loading, filter_jobs } = state.jobs;
@@ -15,6 +18,9 @@ const mapDispatchToProps = dispatch => {
     getJobsRequest: () => {
       dispatch(getJobsRequest());
     },
+    filterJobsRequest: (params) => {
+      dispatch(filterJobsRequest(params));
+    }
   };
 };
 

@@ -44,7 +44,7 @@ export function* filterJobsRequestSaga(action) {
   try {
     const params = action.params;
     let jobs = yield select(getInitialJobs);
-    if (params.text.trim()) {
+    if (params.text && params.text.trim()) {
       jobs = jobs.filter(job => job.title.includes(params.text.trim()));
     }
 

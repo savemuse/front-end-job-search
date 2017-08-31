@@ -22,8 +22,10 @@ class JobItem extends Component {
       user,
       created_at,
       updated_at,
-      labels, body 
+      labels, 
+      body,
     } = this.props.job;
+    const { onTagClick } = this.props;
     const updateDate = updated_at ? new Date(updated_at) : new Date(created_at);
     const updateStr = `${updateDate.toLocaleDateString()} ${updateDate.toLocaleTimeString()}`; 
 
@@ -31,17 +33,17 @@ class JobItem extends Component {
       <div className="card-container-item">
         <Card
           expanded={this.state.expanded}
-          onExpandChange={this.handleExpandChange}
-        >
+          onExpandChange={this.handleExpandChange} >
           <CardHeader
             title={title.trim()}
             subtitle={updateStr}
             avatar={<Avatar src={user.avatar_url} size={60} />}
             actAsExpander={true}
-            showExpandableButton={true}
-          />
+            showExpandableButton={true} />
           <CardText>
-            <Tags labels={labels} />
+            <Tags
+              labels={labels}
+              onTagClick={onTagClick} />
           </CardText>
           <CardText expandable={true}>
             <ReactMarkdown source={body} />
